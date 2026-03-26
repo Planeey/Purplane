@@ -94,8 +94,8 @@
       "BRAND_830": "#141738",
       "BRAND_860": "#0d0f24",
       "BRAND_900": "#04050c",
-        "RED_400": "#5a32ed",
-        "RED_560": "#7150eb",
+      "RED_400": "#5a32ed",
+      "RED_560": "#7150eb",
       "PLUM_1": "#634fff",
       "PLUM_10": "#634fff",
       "PLUM_16": "#634fff",
@@ -106,7 +106,7 @@
       "PLUM_22": "#080228",
       "PLUM_24": "#232861",
       "TEXT_LINK": "#D793d5",
-              "TEXT_NORMAL": "#D793d5",
+      "TEXT_NORMAL": "#D793d5",
      "WHITE_500": "#d8c9ff",
       "GUILD_BOOSTING_PINK": "#eb6f92",
       "GUILD_BOOSTING_PURPLE": "#c4a7e7",
@@ -157,7 +157,7 @@
       "PREMIUM_TIER_2_PURPLE": "#b473f5",
       "PREMIUM_TIER_2_PURPLE_FOR_GRADIENTS": "#8547c6",
       "PREMIUM_TIER_2_PURPLE_FOR_GRADIENTS_2": "#b845c1
-    },
+  },
     "background": {
         "blur": 0.1,
         "url": "https://raw.githubusercontent.com/Planeey/Purplane/refs/heads/main/bcef13274a4e18c3a236437c8e8c2e5d.png",
