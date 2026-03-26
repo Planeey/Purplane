@@ -94,8 +94,8 @@
       "BRAND_830": "#141738",
       "BRAND_860": "#0d0f24",
       "BRAND_900": "#04050c",
-      "RED_400": "#5a32ed",
-      "RED_560": "#7150eb",
+        "RED_400": "#5a32ed",
+        "RED_560": "#7150eb",
       "PLUM_1": "#634fff",
       "PLUM_10": "#634fff",
       "PLUM_16": "#634fff",
@@ -106,7 +106,7 @@
       "PLUM_22": "#080228",
       "PLUM_24": "#232861",
       "TEXT_LINK": "#D793d5",
-      "TEXT_NORMAL": "#D793d5",
+              "TEXT_NORMAL": "#D793d5",
      "WHITE_500": "#d8c9ff",
       "GUILD_BOOSTING_PINK": "#eb6f92",
       "GUILD_BOOSTING_PURPLE": "#c4a7e7",
@@ -156,11 +156,31 @@
       "PREMIUM_TIER_2_PINK_FOR_GRADIENTS_2": "#b73ec1",
       "PREMIUM_TIER_2_PURPLE": "#b473f5",
       "PREMIUM_TIER_2_PURPLE_FOR_GRADIENTS": "#8547c6",
-      "PREMIUM_TIER_2_PURPLE_FOR_GRADIENTS_2": "#b845c1
+      "PREMIUM_TIER_2_PURPLE_FOR_GRADIENTS_2": "#b845c1"
+    },
+ "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Planeey/Purplane/refs/heads/main/bcef13274a4e18c3a236437c8e8c2e5d.png",
+        "url": "https://raw.githubusercontent.com/Planeey/Purplane/refs/heads/main/car.jpg",
         "alpha": 0.4
      },
     "plus": {
