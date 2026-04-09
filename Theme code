@@ -179,9 +179,9 @@
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
     "background": {
-        "blur": 0.1,
+        "blur": 0,
         "url": "https://i.imgur.com/9SRuhJ1.jpeg",
-        "alpha": 0.4
+        "alpha": 0
      },
     "plus": {
         "version": 0,
